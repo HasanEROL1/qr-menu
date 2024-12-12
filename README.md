@@ -11,5 +11,19 @@
 <li>Menüyü dinamik olarak render eden modern ve responsive bir tasarım.
 </li>
 
+<h3>Kullanılan Teknolojiler</h3>
+<ol>
+  <li>HTML: Sayfa yapısını oluşturmak için.
+</li>
+    <li>CSS: Sayfa stilini oluşturmak için.
+</li>
+    <li>JavaScript: Dinamik işlevsellik ve etkileşim için.
+</li>
+    <li>Bootstrap: Responsive ve modern tasarım için.
+</li>
+    <li>API (Veritabanı): Menü öğeleri ve detayları çekmek için.
+</li>
+</ol>
+
 
 
