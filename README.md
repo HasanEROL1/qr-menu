@@ -26,4 +26,4 @@
 </ol>
 
 
-https://1drv.ms/i/c/a9c0dff4bd88020d/EV_H_WdXiP1NpiSERWO1BlcBceaZewaVPjzrYLcg81L2tg
+![qr menu tanıtım](https://github.com/user-attachments/assets/97f37b77-f788-4dc9-89a3-9e68b3f74bd3)
