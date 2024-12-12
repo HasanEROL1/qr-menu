@@ -26,4 +26,5 @@
 </ol>
 
 
-![qr menu tanıtım](https://github.com/user-attachments/assets/97f37b77-f788-4dc9-89a3-9e68b3f74bd3)
+
+![qr menu tanıtım](https://github.com/user-attachments/assets/d248d580-8119-4420-96f3-e4d25d0d8522)
