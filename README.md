@@ -27,4 +27,4 @@
 
 
 
-![qr menu tanıtım](https://github.com/user-attachments/assets/d248d580-8119-4420-96f3-e4d25d0d8522)
+![qr menu tanıtım](qrmenu.gif)
