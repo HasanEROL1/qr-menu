@@ -7,7 +7,7 @@ export const renderCards = (data) => {
         (item) =>
           `
     <a href="/detail.html?id=${item.id}" 
-      class="d-flex flex-column flex-md-row text-dark text-decoration-none gap-3 mx-4 my-4 " id="card">
+      class="menu-card d-flex flex-column flex-md-row text-dark text-decoration-none gap-3 mx-4 my-4 " id="card">
          
             <img src="${item.img}" class="rounded img-fluid shadow" alt="">
             <div>
