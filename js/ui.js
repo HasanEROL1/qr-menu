@@ -54,11 +54,15 @@ export const renderDetailPage= (product, outlet) => {
 
 export const renderNotFoundPage = (outlet) => {
   outlet.innerHTML = `
-    <div style='height:90vh' class='d-flex justify-content-center align-items-center'>
-  <div class='d-flex flex-column align-items-center gap-3'>
-    <h1 class='fw-bold'>Aradığınız ürün mevcut değil</h1>
-    <a href='/'>Anasayfaya Dönün</a>
-  </div> 
+   <div  class="d-flex justify-content-center align-items-center py-5 my-4" style="min-height: 90vh;">
+    <div class="text-center px-4 py-5 border rounded-4 shadow-sm" style="max-width: 480px;" >
+      <h2 class="mb-3">Ürün bulunamadı</h2>
+      <p class="text-muted mb-4">Aradığınız ürün şu anda mevcut değil. Ana sayfaya dönerek yeni ürünlere göz atabilirsiniz.</p>
+      <a href="/" class="text-danger d-inline-flex flex-column align-items-center text-decoration-none">
+        <img width="35px" src="./images/home.png" alt="image" title="anasayfaya dönmek için tıklayınız" class="red-img rounded-1">
+        <small class="mt-2 fw-semibold">Ana sayfaya dön</small>
+      </a>
+    </div>
   </div>
   `;
 }
